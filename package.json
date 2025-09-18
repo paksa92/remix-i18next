@@ -60,6 +60,7 @@
 	"license": "MIT",
 	"scripts": {
 		"build": "tsc",
+		"prepare": "pnpm run build",
 		"typecheck": "tsc --noEmit",
 		"quality": "biome check .",
 		"quality:fix": "biome check . --write --unsafe",
