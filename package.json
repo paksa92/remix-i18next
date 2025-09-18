@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/paksa/remix-i18next.git"
+		"url": "git+https://github.com/paksa92/remix-i18next.git"
 	},
 	"devDependencies": {
 		"@arethetypeswrong/cli": "^0.18.2",
